@@ -13,7 +13,7 @@ A lightweight JavaScript library for transforming and validating tabular data.
 
 ### Simplest use case
 
-Tabular to object array data without type inference and validation. Header inclused in the data.
+Tabular to object array data without type inference and validation. Header included in the data.
 
 ```js
 const tabularData = [
